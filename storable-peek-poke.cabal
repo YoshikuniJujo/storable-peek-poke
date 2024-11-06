@@ -1,12 +1,14 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.36.0.
+-- This file has been generated from package.yaml by hpack version 0.37.0.
 --
 -- see: https://github.com/sol/hpack
 
 name:           storable-peek-poke
 version:        0.1.0.1
+synopsis:       class Sizable, Peek and Poke
 description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/storable-peek-poke#readme>
+category:       Data, Foreign
 homepage:       https://github.com/YoshikuniJujo/storable-peek-poke#readme
 bug-reports:    https://github.com/YoshikuniJujo/storable-peek-poke/issues
 author:         Yoshikuni Jujo
