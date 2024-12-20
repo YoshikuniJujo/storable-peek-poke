@@ -1,5 +1,5 @@
 name:                storable-peek-poke
-version:             0.1.0.1
+version:             0.1.0.2
 github:              "YoshikuniJujo/storable-peek-poke"
 license:             BSD3
 author:              "Yoshikuni Jujo"
@@ -33,6 +33,8 @@ ghc-options:
 - -Wmissing-home-modules
 - -Wpartial-fields
 - -Wredundant-constraints
+
+default-extensions: GADTs
 
 library:
   source-dirs: src
